@@ -1,0 +1,45 @@
+@media(max-width:1440px){
+    .client{
+        width: 60%;
+    }
+    .testimonial p {
+        margin-top: 20px;
+    }
+}
+@media(max-width:1024px){
+    .client{
+        width: 80%;
+    }
+}
+@media(max-width:768px){
+    .client{
+        width: 100%;
+    }
+
+}
+@media(max-width:575px){
+    .fram-img{
+        margin-left: 80px;
+    }
+    .hero-content{
+        text-align: center;
+        margin-left: 40px;
+    }
+    .media{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .client{
+        margin-right: 130px;
+    }
+    .foot-p{
+        text-align: center;
+    }
+}
+@media(max-width:320px){
+    .navbar-light .navbar-brand {
+        
+     width: 190px;
+        
+    }
+}
